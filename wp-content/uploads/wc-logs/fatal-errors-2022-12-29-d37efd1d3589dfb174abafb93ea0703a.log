@@ -1,0 +1,4 @@
+2022-12-29T14:03:13+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\herbs\wp-includes\Requests\Transport\cURL.php on line 165
+
+2022-12-29T17:25:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\herbs\wp-content\plugins\contact-form-7\modules\recaptcha\service.php on line 3
+
